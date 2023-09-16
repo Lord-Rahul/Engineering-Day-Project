@@ -1,0 +1,33 @@
+#home{
+color: black;
+}
+#bg{
+
+    background-color: rgb(0, 0, 0);
+}
+.about{
+    color:blanchedalmond;
+    font-style: italic;
+    text-align: center;
+}
+#head{
+    color: black;
+    text-align: center;
+}
+.tr{
+    background-color: burlywood;
+    color:cadetblue;
+    text-align: center;
+}
+#why{
+text-align: center;
+}
+#para{
+    text-size-adjust: 4px;
+}
+#90{
+    color: black;
+}
+#91{
+    background-color: rgb(105, 206, 59);
+}
